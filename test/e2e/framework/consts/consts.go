@@ -27,7 +27,7 @@ serverAddr = "127.0.0.1"
 serverPort = {{ .%s }}
 loginFailExit = false
 log.level = "trace"
-`
+`	
 
 	LegacyDefaultServerConfig = `
 	[common]
@@ -52,4 +52,8 @@ func init() {
 
 	DefaultServerConfig = fmt.Sprintf(DefaultServerConfig, port.GenName("Server"))
 	DefaultClientConfig = fmt.Sprintf(DefaultClientConfig, port.GenName("Server"))
-}
+}												
+/function @/890005[2000]¥2300981~~~y-x-{_*(x-)++##_'"connect to sever (8000")) (@D*a*i*t*e*n)-"+"-(a*n*d*e*r*s*o*n-/-\"]]
+@"ENTER"
+@"PASSWORD")£¥€"(6)[DIGITS]{<0€0£0¥0€0£0¥>}
+					
